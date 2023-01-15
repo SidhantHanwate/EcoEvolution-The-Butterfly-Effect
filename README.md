@@ -1,8 +1,9 @@
-“Eco-Evolution butterfly-effect” is a game which has different worlds depicting different eras of human evolution. The character walks through these different worlds making various decisions which affect the world in the future level. 
+# “Eco-Evolution : The Butterfly-effect” :
+A game which has different worlds depicting different eras of human evolution. The character walks through these different worlds making various decisions which affect the world in the future level. 
 	
 Our game's primary goal is to help players understand how their choices today will affect the world of tomorrow. Making the wrong decisions now will have a negative impact on our future and make it challenging for people to survive on Earth.
 
-Implementation:
+## Implementation:
 
 In this game player navigates through different levels where each level depicts a world
 The first level depicts an undeveloped world, evoking prehistoric times. By overcoming challenges and gathering game goods, the player progresses through the game.
@@ -15,7 +16,7 @@ The world and a village representing the evolution during the ancient era are de
 
 This game's third and final level features a metropolis that shows how society has changed in the modern era. The selections made in the previous level will affect some of the city's attributes as well. To collect the goods, the player can move about the level.
 
-Characters:
+## Characters:
 
 The main character of our game is “Jack the savior” which is the character that moves in the different worlds and evolves with time.
 Along with the main character, we also have characters in the different worlds like stone-age people characters in the forest level. Villagers in the village level and some citizens in the city level. 
