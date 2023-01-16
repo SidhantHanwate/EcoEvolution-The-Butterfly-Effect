@@ -8,13 +8,12 @@ public class ImagePopScript : MonoBehaviour
 
     // public Text DisplayTest;
     public GameObject Image;
-    // Start is called before the first frame update
     void Start()
     {
         Image.SetActive(false);
     }   
 
-    //detect game object as player using tag and set the image to active if it comes in contact
+    //detect game object by its tag, here it's the player we wish to interact with. Set the image to active as it comes in vicinty of the object
     void OnTriggerEnter(Collider Player)
     {
         if (Player.gameObject.tag == "Player")
