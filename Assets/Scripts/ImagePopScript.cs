@@ -14,6 +14,7 @@ public class ImagePopScript : MonoBehaviour
         Image.SetActive(false);
     }   
 
+    //detect game object as player using tag and set the image to active if it comes in contact
     void OnTriggerEnter(Collider Player)
     {
         if (Player.gameObject.tag == "Player")
@@ -22,6 +23,7 @@ public class ImagePopScript : MonoBehaviour
         }
     }
 
+       //set the image back to inactive state  ones it leaves vicinity of the object
     void OnTriggerExit(Collider Player)
     {
         if (Player.gameObject.tag == "Player")

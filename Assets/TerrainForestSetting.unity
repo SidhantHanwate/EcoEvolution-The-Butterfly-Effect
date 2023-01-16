@@ -2422,8 +2422,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 16, y: -79}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 27.3, y: -79.4}
+  m_SizeDelta: {x: 212.6044, y: 50.8403}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &391975875
 MonoBehaviour:
@@ -2445,7 +2445,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: What are SDG's ?
+  m_text: Hey, I heard about the noble cause you're working on, as for balancing
+    biodiversity and sustainibility, you've two options.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2472,8 +2473,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 19.3
-  m_fontSizeBase: 19.3
+  m_fontSize: 11.6
+  m_fontSizeBase: 11.6
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2508,7 +2509,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 18.228882}
+  m_margin: {x: -45.37564, y: 0, z: 0, w: 18.228882}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -8548,7 +8549,7 @@ TerrainCollider:
   m_GameObject: {fileID: 1330668256}
   m_Material: {fileID: 0}
   m_Enabled: 1
-  m_TerrainData: {fileID: 15600000, guid: 643ff32f5420de641a6f0844c84f748b, type: 2}
+  m_TerrainData: {fileID: 15600000, guid: 7b9ae2ee758ceaf4f976973045a65f50, type: 2}
   m_EnableTreeColliders: 1
 --- !u!218 &1330668258
 Terrain:
@@ -8559,7 +8560,7 @@ Terrain:
   m_GameObject: {fileID: 1330668256}
   m_Enabled: 1
   serializedVersion: 6
-  m_TerrainData: {fileID: 15600000, guid: 643ff32f5420de641a6f0844c84f748b, type: 2}
+  m_TerrainData: {fileID: 15600000, guid: e1498830f5b2c6149b8d0d9ed21cadf8, type: 2}
   m_TreeDistance: 5000
   m_TreeBillboardDistance: 50
   m_TreeCrossFadeLength: 5
@@ -9551,7 +9552,7 @@ Terrain:
   m_GameObject: {fileID: 1397900168}
   m_Enabled: 1
   serializedVersion: 6
-  m_TerrainData: {fileID: 15600000, guid: 643ff32f5420de641a6f0844c84f748b, type: 2}
+  m_TerrainData: {fileID: 0}
   m_TreeDistance: 5000
   m_TreeBillboardDistance: 50
   m_TreeCrossFadeLength: 5
@@ -10099,7 +10100,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: The goals towards Sustainable Development
+  m_text: Allow hunting, logging to provide livelihoods for local communities
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -10234,7 +10235,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: No Idea
+  m_text: Prevent those practises and aware locals about the importance of preserving
+    it
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -11074,6 +11076,7 @@ GameObject:
   - component: {fileID: 1688315347}
   - component: {fileID: 1688315346}
   - component: {fileID: 1688315350}
+  - component: {fileID: 1688315351}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
@@ -11152,7 +11155,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1688315345}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -46.1, y: 1.4, z: -1582.5}
+  m_LocalPosition: {x: -46.1, y: 1.4, z: -1584.3}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11169,6 +11172,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 053893e0dda19ef469692542ce924eb4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1688315351
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1688315345}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 168db204f376f254fac94102af8b4d6b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1001 &1713972166
@@ -11658,8 +11673,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 18.8, y: -47}
-  m_SizeDelta: {x: 133.2, y: 30}
+  m_AnchoredPosition: {x: 19.5, y: -46.601433}
+  m_SizeDelta: {x: 253.541, y: 39.2432}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1794890869
 MonoBehaviour:
@@ -11855,8 +11870,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 16.6, y: -13.3}
-  m_SizeDelta: {x: 181.7, y: 30}
+  m_AnchoredPosition: {x: 12.798, y: -0.0000047684}
+  m_SizeDelta: {x: 226.2353, y: 39.78}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1816674399
 MonoBehaviour:
