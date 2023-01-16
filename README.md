@@ -19,19 +19,29 @@ This game's third and final level features a metropolis that shows how society h
 ## Characters:
 
 The main character of our game is “Jack the savior” which is the character that moves in the different worlds and evolves with time.
-Along with the main character, we also have characters in the different worlds like stone-age people characters in the forest level. Villagers in the village level and some citizens in the city level. 
+Along with the main character, we also have characters in the different worlds like stone-age people characters in the forest level. Villagers in the village level and some citizens in the city level.
 
-##Installation instructions:
+
+
+## Installation Instructions:
+
 Click on the given below link to play the game online:
+
 Link:https://sidhanthanwate.itch.io/ecoevolution-the-butterfly-effect
+
 Now link on the play button to play the game
 
 ## Instructions for the player:
 The user can use the following keys for the following actions:
 
 A-left
+
 S-down
+
 W-up
+
 D-right
+
 Shift key-sprinting
+
 Space bar-jump
