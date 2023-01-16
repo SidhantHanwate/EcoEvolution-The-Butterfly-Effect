@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/The_Viking_Village.unity
+  - enabled: 0
+    path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/TerrainForestSetting.unity
+    guid: 56398875f3c2e864ea0b905b547c694c
+  - enabled: 1
+    path: Assets/CityScene.unity
+    guid: a5aa5c88ae9b6814da0eb1820b3d7e86
   m_configObjects: {}
