@@ -45,3 +45,39 @@ D-right
 Shift key-sprinting
 
 Space bar-jump
+
+## Game Images :
+
+<p>
+    <img src="https://user-images.githubusercontent.com/91141709/212740512-ed0e8d9c-24ec-4fe9-905f-f425b1be62b5.png" width="1000">&emsp;
+</p>
+<br>
+
+
+<p>
+    <img src="https://user-images.githubusercontent.com/91141709/212740522-7c7f50ff-f56d-4223-97a3-78ab119a59b7.png" width="1000">&emsp;
+</p>
+<br>
+
+<p>
+    <img src="https://user-images.githubusercontent.com/91141709/212740506-1901a110-583c-4723-802e-85c759a91796.png" width="1000">&emsp;
+</p>
+<br>
+
+
+<p>
+    <img src="https://user-images.githubusercontent.com/91141709/212740501-845b4448-8a8a-4d15-a6a3-6a2f333256b7.png" width="1000">&emsp;
+</p>
+<br>
+
+<p>
+    <img src="https://user-images.githubusercontent.com/91141709/212740497-bc6c013a-425f-49d8-9daa-dffbe22b3c22.png" width="1000">&emsp;
+</p>
+<br>
+
+
+
+
+
+
+
